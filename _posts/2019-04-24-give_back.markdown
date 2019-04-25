@@ -1,0 +1,10 @@
+---
+layout: post
+title:      "Give Back!"
+date:       2019-04-25 02:54:40 +0000
+permalink:  give_back
+---
+
+
+I decided to learn Software Develpment because I want to work in a world that believes in giving back to our communities.  In researching new career paths and different companies I realized that the majority of our top tech companies do just that.  They either donate to local charities, partner with community programs for their employees to give back through, or allow their employees a set amount of hours each year to give back in a way of their choosing.  I'm already passionate about this and currently volunteer on a Logistics Team with Extreme Community Makeover here in Denver, but am only able to do so on weekends with my current company.  I would love to be part of a company that is open to allowing their employees to come together for a good cause that helps out their fellow neighbors and also brings the team closer together.  
+Software Development also intrigued me because I've always had a very analytical mind and after participating in a couple meetups and working through some free coursework online I realized that I loved learning how the different programs work, and I just wanted to keep learning more.
