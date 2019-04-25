@@ -1,11 +1,11 @@
 # Site settings
 author: Nichole Battleday
-title: 
+title: BattleBlog
 header-img: img/home-bg.png
 email: battleday@gmail.com
 copyright_name: Nichole Battleday
 description: > # this means to ignore newlines until "baseurl:"
-  
+  I'm new here
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  nbattleday
